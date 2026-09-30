@@ -1,0 +1,14 @@
+# Dataset (too large for GitHub — see data/README.md)
+data/*.csv
+
+# Generated outputs
+data_access_audit_log.json
+case_similarity_dashboard.png
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+venv/
+.DS_Store
