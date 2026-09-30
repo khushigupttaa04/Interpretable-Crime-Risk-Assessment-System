@@ -53,8 +53,8 @@ requirements.txt
 ## Running it
 
 ```bash
-git clone https://github.com/khushigupttaa04/crime-risk-assessment.git
-cd crime-risk-assessment
+git clone https://github.com/khushigupttaa04/Interpretable-Crime-Risk-Assessment-System.git
+cd Interpretable-Crime-Risk-Assessment-System
 pip install -r requirements.txt
 jupyter notebook notebooks/crime_risk_assessment.ipynb
 ```
