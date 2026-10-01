@@ -55,6 +55,12 @@ Risk models are tested on 2020-2023 (50,000 sampled records). The test set is im
   <img src="assets/crime_count_by_year.png" width="48%">
   <img src="assets/top10_crime_types.png" width="48%">
 </p>
+<details>
+<summary><b>Case similarity dashboard</b> (click to expand)</summary>
+<br>
+<img src="assets/case_similarity_dashboard.png" width="100%">
+<p><i>Top-5 retrieved historical cases for a query, both risk models' confusion matrices, feature importance and predicted crime-type probabilities.</i></p>
+</details>
 
 ## Limitations and next steps
 
